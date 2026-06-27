@@ -4,6 +4,8 @@ Tämä projekti on Pythonilla ja Streamlitillä toteutettu data-analytiikka dash
 
 Dashboard visualisoi Suomen valtionvelan kehitystä vuosina 2000–2025 Tilastokeskuksen aineiston pohjalta. Sovellus sisältää tunnusluvut, interaktiiviset kuvaajat, velan kasvun analyysin sekä lineaarisen ennusteen vuoteen 2030.
 
+![Finnish Government Debt Analytics Dashboard](images/dashboard.png)
+
 Käytetyt teknologiat:
 
 - Python

@@ -12,6 +12,21 @@ Käytetyt teknologiat:
 - Streamlit
 - Plotly
 
+## Projektin käynnistäminen
+
+1. Siirry projektin juurihakemistoon.
+2. Aktivoi Python-virtuaaliympäristö:
+
+source venv/bin/activate
+
+3. Käynnistä Streamlit-sovellus:
+
+streamlit run dashboard/app.py
+
+4. Avaa selain ja siirry osoitteeseen:
+
+http://localhost:8501
+
 ---
 
 This project is a data analytics dashboard built with Python and Streamlit.
@@ -25,3 +40,18 @@ Technologies used:
 - SQLite
 - Streamlit
 - Plotly
+
+## Running the Project
+
+1. Navigate to the project root directory.
+2. Activate the Python virtual environment:
+
+source venv/bin/activate
+
+3. Start the Streamlit application:
+
+streamlit run dashboard/app.py
+
+4. Open your web browser and navigate to:
+
+http://localhost:8501

@@ -90,7 +90,7 @@ with col4:
     <div style="border:2px solid #e5e7eb;border-radius:10px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.06);">
         <h4 style="margin:0;color:#555;">Kasvu yhteensä</h4>
         <h1 style="color:#2563eb;">{increase_percent:.1f} %</h1>
-        <h3 style="margin-top:0;">mrd €</h3>
+        <h3 style="margin-top:0;">%</h3>
     </div>
     """, unsafe_allow_html=True)
     
